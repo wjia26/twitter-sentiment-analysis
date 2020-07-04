@@ -1,0 +1,26 @@
+file_name,group_name,category,search
+Arsenal,Arsenal FC,EPL,#Arsenal OR #AFC OR #COYG
+TottenhamHotspur,Tottenham Hotspur FC,EPL,#Tottenham OR #THFC OR #SPURS
+ManchesterCity,Manchester City FC,EPL,#ManchesterCity OR #ManCity OR #MCFC
+LeicesterCity,Leicester City FC,EPL,#LeicesterCity OR #LCFC
+CrystalPalace,Crystal Palace FC,EPL,#CrystalPalace OR #CPFC
+Everton,Everton FC,EPL,#Everton OR #EFC
+Burnley,Burnley FC,EPL,#Burnley OR #BurnleyFC
+Southampton,Southampton FC,EPL,#SouthamptonFC OR #Southampton
+AFC Bournemouth,AFC Bournemouth,EPL,#Bournemouth
+ManchesterUnited,Manchester United FC,EPL,#ManchesterUnited OR #ManUnited OR #MUFC
+Liverpool,Liverpool FC,EPL,#liverpoolfc OR #YNWA OR #LFC
+Chelsea,Chelsea FC,EPL,#Chelsea OR #ChelseaFC #CFC
+WestHamUnited,West Ham United FC,EPL,#Westhamunited OR #Westham OR #WHUFC
+Watford,Watford FC,EPL,#Watford OR #WatfordFC
+NewcastleUnited,Newcastle United FC,EPL,#NewcastleUnited
+CardiffCity,Cardiff City FC,EPL,#Cardiff OR #CardiffCity OR #CardiffCityFC
+Fulham,Fulham FC,EPL,#Fulham OR #FulhamFC
+WolverhamptonWanderers,Wolverhampton Wanderers FC,EPL,#Wolverhampton Wanderers OR #wolves
+HongKong,Hong Kong,Politics,#HongKong OR #Hong Kong
+China,China,Politics,#China OR #Chinese
+USA,USA,Politics,#USA OR #America OR #UnitedStates OR #UnitedStatesOfAmerica
+Australia,Australia,Politics,#Australia OR #Aussie OR #STRAYA
+Japan,Japan,Politics,#Japan
+Chess,Chess,Chess,#chess OR #studychess
+HikaruNakamura,Hikaru Nakamura,Chess,#GMHikaru OR #HikaruNakamura
